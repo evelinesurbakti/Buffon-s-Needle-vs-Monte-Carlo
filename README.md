@@ -1,5 +1,5 @@
 # Buffon's Needle vs Monte Carlo Simulation
-Calculate Pi with Buffon's Needle and Monte Carlo
+Generate Pi values with Buffon's Needle and Monte Carlo
 
 The generator (`Rng.py`) used in this library is a so-called 'Lehmer random number generator' which returns a pseudo-random number uniformly distributed between 0.0 and 1.0.  
 
